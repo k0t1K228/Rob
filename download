@@ -1,0 +1,13 @@
+# Place files (бинарники Roblox в git не храним)
+*.rbxlx
+*.rbxl
+
+# Roblox Studio lock files
+*.rbxlx.lock
+*.rbxl.lock
+
+sourcemap.json
+
+# Локальный бэкап экспорта из Studio
+/extracted/
+bakup'
